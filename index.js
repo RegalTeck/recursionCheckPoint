@@ -7,4 +7,4 @@ function checkPalindrome(str){
     return checkPalindrome(str.slice(1, le - 1) );
   }  
   return false;
-};
+}
